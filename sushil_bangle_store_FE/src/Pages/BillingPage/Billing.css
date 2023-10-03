@@ -1,0 +1,15 @@
+@media screen and (max-width: 768px) {
+    .mobile-view {
+        display: flex;
+        flex-direction: column !important;
+        margin-left: 0px !important;
+    }
+
+    .w-1\/4 {
+        width: 100% !important;
+    }
+
+    .space-x-3> :not([hidden])~ :not([hidden]) {
+        margin-left: 0px !important;
+    }
+}

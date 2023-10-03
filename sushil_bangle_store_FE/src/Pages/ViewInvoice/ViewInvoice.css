@@ -1,0 +1,6 @@
+@media screen and (max-width: 768px) {
+    .px-8 {
+        padding-left: 1rem !important;
+        padding-right: 1rem !important;
+    }
+}
